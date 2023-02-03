@@ -2,7 +2,6 @@ databases:
   - name: jetlog
     databaseName: jetlog
     user: jetlog
-    plan: free
 
 services:
   - type: web
